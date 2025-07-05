@@ -75,11 +75,6 @@ DATABASE_URL=postgresql://socialconnect_user:your_password@localhost:5432/social
 # Session Secret (generate a random string)
 SESSION_SECRET=your-super-secret-session-key-here
 
-# Replit Auth Configuration (for local development)
-REPL_ID=your-repl-id
-REPLIT_DOMAINS=localhost:5000
-ISSUER_URL=https://replit.com/oidc
-
 # Development Environment
 NODE_ENV=development
 ```
